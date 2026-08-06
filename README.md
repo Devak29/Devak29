@@ -188,3 +188,117 @@ IoT & Hardware
 </p>
 
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Devak29&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+<table>
+<tr>
+
+<td>
+
+✅ Tata Group – GenAI Powered Data Analytics Virtual Experience Program (Forage)
+
+</td>
+
+<td>
+
+✅ HackerRank – Java (Advanced)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✅ HackerRank – SQL (Advanced)
+
+</td>
+
+<td>
+
+✅ NPTEL – Digital Electronics
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✅ SoC Design Training (RTL • Synthesis • STA)
+
+</td>
+
+<td>
+
+🚀 Continuous Learning in Java, VLSI & Embedded Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Technology |
+|----------|------------|
+| 🤖 Blockchain Enabled Medical Delivery Robot | ESP8266 • RFID • SHA-256 • ThingSpeak |
+| 📚 Library Management System | Java • MySQL • SQL |
+| ⚡ FIFO Design & Verification | SystemVerilog • RTL • Testbench |
+| 🔌 Embedded IoT Projects | ESP32 • NodeMCU • Sensors |
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:gkdevak@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/devak-g-k">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Devak29">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> ⚠️ This image will appear **after we create the GitHub Action**.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Devak29/Devak29/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+<br>
+
+<i>"Code • Build • Learn • Innovate"</i>
+
+</p>
