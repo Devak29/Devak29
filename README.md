@@ -1,25 +1,36 @@
 <!-- ===================== HEADER ===================== -->
 
+<!-- Banner -->
 <p align="center">
   <img src="Banner.png" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00E5FF;">Devak G.K</span></h1>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Java+Developer;VLSI+Enthusiast;Embedded+Systems+Engineer;IoT+Developer;Always+Learning+New+Technologies" alt="Typing Animation"/>
+</p>
 
-<h3 align="center">
-Electronics & Communication Engineer • Java Developer • VLSI Enthusiast • Embedded Systems
-</h3>
+<!-- Subtitle -->
+<p align="center">
+  <b>Electronics & Communication Engineer</b> •
+  <b>Java Developer</b> •
+  <b>VLSI Enthusiast</b> •
+  <b>Embedded Systems</b>
+</p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:gkdevak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://www.linkedin.com/in/devak-g-k">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Devak29&style=for-the-badge&color=0e75b6"/>
+  <a href="https://github.com/Devak29">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
