@@ -1,58 +1,128 @@
-<!-- Banner -->
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
-  <img src="Banner.png" alt="Banner" width="100%" />
+  <img src="Banner.png" width="100%" alt="Banner"/>
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Devak+G.K;Java+Developer;VLSI+Enthusiast;Embedded+Systems+Engineer;Welcome+to+my+GitHub!" />
-</p>
+<h1 align="center">Hi 👋, I'm <span style="color:#00E5FF;">Devak G.K</span></h1>
 
-<!-- Name -->
-<h1 align="center">Hi 👋, I'm Devak G.K</h1>
-
-<!-- Subtitle -->
 <h3 align="center">
-Electronics & Communication Engineer | Java Developer | VLSI Enthusiast | Embedded Systems
+Electronics & Communication Engineer • Java Developer • VLSI Enthusiast • Embedded Systems
 </h3>
 
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devak29&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="mailto:gkdevak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/devak-g-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Devak29&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.E. Electronics and Communication Engineering
-- 💻 Interested in Java Development, IoT and Digital Design
-- 🌱 Currently learning Data Structures and SystemVerilog
-- 📍 Coimbatore, Tamil Nadu
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
----
+🎓 Electronics & Communication Engineering Graduate
 
-## 🛠️ Skills
-
-- Java
-- C
-- Python
-- SQL
-- MySQL
+💻 Passionate about
+- Java Development
+- Embedded Systems
+- VLSI Design
 - SystemVerilog
-- Git & GitHub
+- IoT
+
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Advanced Java
+- RTL Design
+- ASIC Design Flow
+
+📍 Coimbatore, Tamil Nadu, India
+
+💬 Ask me about
+- Java
+- SQL
+- Embedded Systems
+- Verilog
+- SystemVerilog
+
+⚡ Fun Fact
+
+> I love building software and hardware solutions that solve real-world problems.
+
+<br><br><br>
 
 ---
 
-## 🚀 Projects
+# 🚀 What I Build
 
-- 🤖 Blockchain Enabled Secure Medical Delivery Robot
-- 📚 Library Management System
-- ⚡ FIFO Design and Verification
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 Medical Delivery Robot
+
+Blockchain-enabled medical delivery robot
+
+- ESP8266
+- RFID Authentication
+- SHA-256
+- ThingSpeak Cloud
+
+</td>
+
+<td width="50%">
+
+## ⚡ FIFO Verification
+
+RTL Design & Verification
+
+- SystemVerilog
+- Testbench
+- Simulation
+- Verification
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📚 Library Management
+
+Java + SQL Project
+
+- MySQL
+- Joins
+- Normalization
+- CRUD
+
+</td>
+
+<td width="50%">
+
+## 🔌 Embedded Projects
+
+IoT & Hardware
+
+- Sensors
+- ESP32
+- NodeMCU
+- Automation
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/devak-g-k
-- Email: gkdevak@gmail.com
