@@ -5,10 +5,6 @@
   <img src="Banner.png" width="100%" alt="Banner"/>
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Java+Developer;VLSI+Enthusiast;Embedded+Systems+Engineer;IoT+Developer;Always+Learning+New+Technologies" alt="Typing Animation"/>
-</p>
 
 <!-- Subtitle -->
 <p align="center">
