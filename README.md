@@ -126,3 +126,65 @@ IoT & Hardware
 </table>
 
 ---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+## ⚙️ Embedded & VLSI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESP8266-00979D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NodeMCU-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-2196F3?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devak29&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devak29&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Devak29&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devak29&theme=tokyo-night"/>
+
+</p>
+
+---
