@@ -1,3 +1,6 @@
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Devak G.K</h1>
 
 <h3 align="center">Electronics & Communication Engineer | Java Developer | IoT Enthusiast</h3>
