@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Devak+G.K;Java+Developer;VLSI+Enthusiast;Embedded+Systems+Engineer;Welcome+to+my+GitHub!" />
+</p>
+
+<p align="center">
 <img src="Banner.png" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Devak G.K</h1>
