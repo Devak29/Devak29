@@ -6,14 +6,6 @@
 </p>
 
 
-<!-- Subtitle -->
-<p align="center">
-  <b>Electronics & Communication Engineer</b> •
-  <b>Java Developer</b> •
-  <b>VLSI Enthusiast</b> •
-  <b>Embedded Systems</b>
-</p>
-
 <!-- Social Links -->
 <p align="center">
   <a href="mailto:gkdevak@gmail.com">
@@ -33,98 +25,42 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 🎓 Electronics & Communication Engineering Graduate
 
-💻 Passionate about
-- Java Development
-- Embedded Systems
-- VLSI Design
-- SystemVerilog
-- IoT
+💻 **Focus Areas**
 
-🌱 Currently Learning
-- Data Structures & Algorithms
-- Advanced Java
-- RTL Design
-- ASIC Design Flow
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![VLSI](https://img.shields.io/badge/VLSI-00599C?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-2E8B57?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-009688?style=for-the-badge)
 
-📍 Coimbatore, Tamil Nadu, India
+🌱 **Currently Learning:** DSA • Advanced Java • RTL Design • ASIC Design Flow
 
-💬 Ask me about
-- Java
-- SQL
-- Embedded Systems
-- Verilog
-- SystemVerilog
+📍 **Coimbatore, Tamil Nadu, India**
 
-⚡ Fun Fact
+💬 **Ask Me About:** Java • SQL • Embedded Systems • Verilog • SystemVerilog
 
-> I love building software and hardware solutions that solve real-world problems.
+> *"Building software and hardware solutions for real-world challenges."*
 
-<br><br><br>
+---  
 
----
-
-# 🚀 What I Build
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🤖 Medical Delivery Robot
-
-Blockchain-enabled medical delivery robot
-
-- ESP8266
-- RFID Authentication
-- SHA-256
-- ThingSpeak Cloud
+**Tech Stack:** `Java` `MySQL` `SQL`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## ⚡ FIFO Verification
+### 🔌 Embedded Systems & IoT
 
-RTL Design & Verification
+**Microcontroller-based automation projects**
 
-- SystemVerilog
-- Testbench
-- Simulation
-- Verification
+🔹 ESP32 & NodeMCU Development  
+🔹 Sensor Integration  
+🔹 Automation Solutions  
+🔹 Real-time Monitoring  
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📚 Library Management
-
-Java + SQL Project
-
-- MySQL
-- Joins
-- Normalization
-- CRUD
-
-</td>
-
-<td width="50%">
-
-## 🔌 Embedded Projects
-
-IoT & Hardware
-
-- Sensors
-- ESP32
-- NodeMCU
-- Automation
+**Tech Stack:** `ESP32` `NodeMCU` `IoT`
 
 </td>
 
@@ -160,46 +96,6 @@ IoT & Hardware
 
 <img src="https://img.shields.io/badge/IoT-2196F3?style=for-the-badge"/>
 
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devak29&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devak29&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Devak29&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devak29&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Devak29&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
@@ -259,17 +155,156 @@ IoT & Hardware
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Technology |
-|----------|------------|
-| 🤖 Blockchain Enabled Medical Delivery Robot | ESP8266 • RFID • SHA-256 • ThingSpeak |
-| 📚 Library Management System | Java • MySQL • SQL |
-| ⚡ FIFO Design & Verification | SystemVerilog • RTL • Testbench |
-| 🔌 Embedded IoT Projects | ESP32 • NodeMCU • Sensors |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Blockchain-Enabled Medical Delivery Robot
+> **Secure IoT Healthcare Automation**
+
+🔹 RFID-based Authentication  
+🔹 SHA-256 Data Encryption  
+🔹 ThingSpeak Cloud Monitoring  
+🔹 ESP8266 NodeMCU
+
+**Tech Stack**
+
+`ESP8266` `RFID` `IoT` `SHA-256` `ThingSpeak`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧹 Smart Vacuum Cleaner Robot
+> **Autonomous Floor Cleaning System**
+
+🔹 ESP32-based Controller  
+🔹 Obstacle Detection & Avoidance  
+🔹 Motor Driver Integration  
+🔹 Autonomous Navigation
+
+**Tech Stack**
+
+`ESP32` `Ultrasonic Sensor` `Embedded C`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📡 Radar Detection System
+> **Object Detection & Distance Monitoring**
+
+🔹 Ultrasonic Sensor Integration  
+🔹 Real-time Object Detection  
+🔹 LCD Display Interface  
+🔹 Embedded Control
+
+**Tech Stack**
+
+`Arduino` `Ultrasonic` `Embedded C`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☣️ Toxic Gas Detection System
+> **Industrial Safety Monitoring**
+
+🔹 MQ-Series Gas Sensor  
+🔹 Real-time Gas Detection  
+🔹 Buzzer & LED Alerts  
+🔹 IoT Monitoring
+
+**Tech Stack**
+
+`ESP32` `MQ Sensor` `IoT`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ✋ Hand Gesture Controlled Robot
+> **Wireless Motion-Controlled Robot**
+
+🔹 MPU6050 Motion Sensor  
+🔹 ESP32 Communication  
+🔹 Gesture Recognition  
+🔹 Wireless Robot Navigation
+
+**Tech Stack**
+
+`ESP32` `MPU6050` `Wireless Control`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ FIFO RTL Design & Verification
+> **Digital Hardware Verification**
+
+🔹 RTL Design using SystemVerilog  
+🔹 Functional Verification  
+🔹 Testbench Development  
+🔹 Simulation & Timing Validation
+
+**Tech Stack**
+
+`SystemVerilog` `RTL` `Verification`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+> **Database Management Application**
+
+🔹 Book & User Management  
+🔹 SQL Joins & Subqueries  
+🔹 Database Normalization  
+🔹 CRUD Operations
+
+**Tech Stack**
+
+`Java` `MySQL` `SQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Industrial Control Panel Automation
+> **Electrical Control Panel Engineering**
+
+🔹 Industrial Wiring & Assembly  
+🔹 Electrical Schematic Interpretation  
+🔹 Panel Testing & Troubleshooting  
+🔹 Automation System Validation
+
+**Tech Stack**
+
+`Electrical Design` `Automation` `Industrial Control`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -290,22 +325,36 @@ IoT & Hardware
 
 ---
 
-# 🐍 Contribution Snake
-
-> ⚠️ This image will appear **after we create the GitHub Action**.
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Devak29/Devak29/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://streak-stats.demolab.com?user=Devak29&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
+# 📈 Contribution Graph
+
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
-
-<br>
-
-<i>"Code • Build • Learn • Innovate"</i>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devak29&theme=tokyo-night"/>
 
 </p>
+
+---
+
+
+---
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile! ⭐
+
+*"Building innovative software, embedded systems, and VLSI solutions—one project at a time."*
+
+**Always Learning. Always Building.🚀**
+
+</div>
